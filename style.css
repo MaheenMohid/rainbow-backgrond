@@ -1,0 +1,22 @@
+body {
+  background: linear-gradient(
+    to right,
+    hsl(0, 90%, 65%),
+    /* pink, */ rgb(248, 172, 32),
+    /* light orange, */ rgb(248, 248, 85),
+    /* lightyellow, */ rgb(72, 195, 72),
+    /* lightgreen, */ rgb(104, 104, 241),
+    /* lightblue, */ rgb(186, 88, 255),
+    /* lightpurple, */ violet
+  );
+  width: 100%;
+  height: auto;
+}
+
+#box {
+  background-color: #000;
+  color: #fff;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+}
